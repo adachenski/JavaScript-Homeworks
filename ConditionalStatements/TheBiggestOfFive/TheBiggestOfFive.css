@@ -1,0 +1,12 @@
+﻿#mainHeader{
+    height:60px;
+}
+#mainHeader a{
+    position:absolute;
+    left:350px;
+    top:50px;
+}
+#mainHeader input{
+    border-radius:5px;
+    
+}
