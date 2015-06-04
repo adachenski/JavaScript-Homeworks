@@ -1,0 +1,9 @@
+﻿#mainHeader #tb-range-first{
+    width:400px;
+}
+#mainHeader label:last-of-type{
+   padding-right:54px;
+}
+#mainHeader input:last-of-type{
+    width:90px;
+}
