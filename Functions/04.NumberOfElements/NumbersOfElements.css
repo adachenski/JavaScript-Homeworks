@@ -1,0 +1,18 @@
+﻿  body a {
+        color: white;
+        background: linear-gradient(#EFFFFF,#009EE2);
+        padding: 2px 5px;
+        border: 1px solid #808080;
+        font-weight: bold;
+        border-radius: 10px;
+        text-decoration: none;
+        vertical-align: bottom;
+    }
+    body a:hover{
+        border:none;
+        background:linear-gradient(#EFFFFF,deepskyblue)
+       
+    }
+    body {
+        background-color:ActiveCaption;
+    }

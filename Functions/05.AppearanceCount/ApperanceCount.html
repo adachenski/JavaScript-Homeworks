@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Apperance Count</title>
+    <link href="../css/js-console.css" rel="stylesheet" />
+    <link href="ApperanceCount.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="mainHeader">
+        <h3>05.Apperance Count</h3>
+        <label>Enter numbers separated by space or comma: </label>
+        <!--<textarea  id="tb-range-first">  </textarea>-->
+        <span><input type="text" placeholder="Entar numbers separated by comma or space" id="tb-range-first" /></span>
+        <br />
+        <br />
+        <span><label for="tb-range-second">Enter a number that you're trying to find:</label></span>
+        <input type="text" placeholder="Enter number" id="tb-range-second" />
+        <a href="#" id="btn-power" onclick="repeatedNumbers()">Proceed</a>
+        <hr />
+        <div id="test">
+            <label for="tb-range-third">Test with: [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5]</label>
+            <a href="#" id="btn-power" onclick="testingArray()">Test</a>
+        </div>
+    </div>
+    <div id="js-console">
+    </div>
+    <script src="../js/js-console.js">
+    </script>
+    <script src="ApperanceCount.js">
+    </script>
+</body>
+</html>

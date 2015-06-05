@@ -1,0 +1,27 @@
+﻿#mainHeader>label{
+    vertical-align:top;
+   
+}
+h3{
+    text-align:center;
+    margin-top:0;
+    margin-bottom:10px;
+}
+span>label{
+     padding-right:35px;
+
+}
+div>input{
+    width:90px;
+    margin-right:230px;
+}
+span input:first-child{
+         width:400px;
+         
+}
+#test{
+    background-color:greenyellow;
+}
+#test label{
+    padding-right:310px;
+}

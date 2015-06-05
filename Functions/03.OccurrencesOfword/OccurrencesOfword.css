@@ -1,0 +1,21 @@
+﻿#mainHeader>label{
+    vertical-align:top;
+   
+}
+h3{
+    text-align:center;
+    margin-top:0;
+    margin-bottom:10px;
+}
+div>label{
+     padding-right:80px;
+
+}
+div>input{
+    width:90px;
+    margin-right:230px;
+}
+span input:first-child{
+         width:400px;
+         
+}
